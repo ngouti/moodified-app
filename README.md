@@ -5,11 +5,13 @@
 #info on bootstrap /documentation
 https://getbootstrap.com/docs/4.1/getting-started/introaduction/
 
+Multiple docs mentioned something about autoprefixer, but idk what it is or how to use it. Here's some info if we end up needing it later:
+https://github.com/postcss/autoprefixer
+
 
 
 #info on adding bootstrap to ruby on rails 
 https://medium.freecodecamp.org/add-bootstrap-to-your-ruby-on-rails-project-8d76d70d0e3b
-
 
 
 

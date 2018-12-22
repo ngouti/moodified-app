@@ -3,9 +3,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.3.3'
 
-#additional Gems not included in the rails skeleton
+#additional Gems not included in the rails skeleton, mostly bootstrap related
 gem 'bootstrap'
 gem 'jquery-rails'
+gem "autoprefixer-rails"
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
